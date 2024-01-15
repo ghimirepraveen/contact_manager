@@ -1,3 +1,8 @@
+* {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Rubik", sans-serif;
+}
 .container {
   background: gray;
   padding: 1rem;
@@ -9,4 +14,50 @@
   background: white;
   border-radius: 10px;
   padding: 5px;
+}
+
+.nav_bar {
+  background: #c0b0a2;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+}
+
+input {
+  padding: 10px;
+  margin: 2px;
+  border: solid, black, 2px;
+  border-radius: 10px;
+  outline: none;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+h3 {
+  text-align: center;
+}
+.input {
+  text-align: center;
+  margin: 30px;
+}
+button {
+  padding: 10px;
+  margin: 2px;
+  border-radius: 10px;
+  outline: none;
+  text-align: center;
+  background: #b6a393;
+  color: #fff;
+  cursor: pointer;
+}
+.btn {
+  margin: auto;
+  width: 50%;
+}
+.contact_adder {
+  background-color: #cecece;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 10px;
 }
