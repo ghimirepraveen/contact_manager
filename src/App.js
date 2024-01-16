@@ -30,6 +30,7 @@ const App = () => {
         <button onClick={clearallcontact} style={{ background: "#F6685E" }}>
           Clear all contacts
         </button>
+        <div>end of day 5</div>
       </div>
     </>
   );
